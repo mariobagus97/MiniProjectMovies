@@ -1,13 +1,6 @@
 
 # MiniProjectMovies
 
-
-
-## Authors
-
-- [@ArioBagus](https://www.github.com/mariobagus97)
-
-
 ## 🚀 About Me
 I'm a senior iOS developer...
 
@@ -25,12 +18,6 @@ This project is used by the following companies:
 
 **Language:** Swift 5.6
 
-
-## Support
-
-For support, email mariobagus1903@gmail.com or join our Slack channel.
-
-
 ## How to install
 
 Go to the terminal
@@ -45,11 +32,6 @@ Install podfile
   pod install
 ```
 
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
-
 ## How to use
 
     1. Home screen has search bar, you must search movie title in search bar
@@ -60,8 +42,11 @@ What optimizations did you make in your code? E.g. refactors, performance improv
     this project only has 2 viewControllers, and 3 pages
 
     Feature wishlist using localDB which is coreData
+    
+    i create template viper too, if you want to use, feel free
 
     Thank you so much for read this readme
+    
 ## 🛠 Skills
 Swift, Obj-C, C#, Java
 

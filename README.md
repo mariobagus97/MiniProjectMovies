@@ -1,5 +1,5 @@
 
-# MiniProjectMovies
+# MiniProjectMovies VIPER PATTERN
 
 ## 🚀 About Me
 I'm a senior iOS developer...
